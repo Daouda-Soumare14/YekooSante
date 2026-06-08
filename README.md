@@ -8,7 +8,7 @@
 
 | Prénom & Nom | Rôle | Responsabilité |
 |---|---|---|
-| **Falilou** | 🎯 Chef de Produit (PM) | Coordination & pitch final |
+| **Elhadji Falilou Fall** | 🎯 Chef de Produit (PM) | Coordination & pitch final |
 | **Fatoumata Diallo** | ✍️ Master Prompt Engineer | Conception des prompts IA |
 | **Daouda Soumaré** | 🛠️ Dev UI (No-Code) | GitHub, Dify.ai, interface |
 
