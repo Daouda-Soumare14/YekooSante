@@ -20,6 +20,7 @@ YekooSanté est un agent IA de pré-triage médical accessible par SMS et WhatsA
 
 | Prénom & Nom | Rôle | Responsabilité | GitHub |
 |---|---|---|---|
+| Mohamed El Fadilou Kebe | Responsable Communication & Pitch | Présentation jury · Vidéo NanoBanana · Démonstration live · Supports visuels | @mohamed-kebe |
 | Elhadji Falilou Fall | 🎯 Chef de Produit (PM) | Coordination, planning, pitch jury | @falilou-fall |
 | Fatoumata Diallo | ✍️ Master Prompt Engineer | Conception et documentation des prompts IA | @fatoumata-diallo |
 | Daouda Soumaré | 🛠️ Dev UI (No-Code) | GitHub, Dify.ai, Lovable, interface | @daouda-soumare |
